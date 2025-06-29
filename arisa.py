@@ -1,6 +1,6 @@
 import random 
 import string
-
+#homo #lol
 length = int(input("Enter desired password length: "))
 
 characters = string.ascii_letters + string.digits + string.punctuation
